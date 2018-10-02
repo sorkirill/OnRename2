@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Мое приложение</string>
+    <string name="hello_text">Приветствую! Данное приложение расскажет об использовании списков recycleview и настройках, сохраняемых в файле sharedpreferences</string>
+    <string name="button_reicleview">Перейдем на список</string>
+    <string name="text_tovar">Товар</string>
+    <string name="text_category">Категория</string>
+    <string name="text_price">Цена</string>
+    <string name="button_text_podrobnee">Подробнее</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="text_settings">Настроить фон странички настроек</string>
+    <string name="start_text">Начало</string>
+    <string name="editTextStart">Start</string>
+    <string name="textViewEnd"> Конец</string>
+    <string name="edit_text_end">Конец</string>
+    <string name="button_ok">Окей</string>
+    <string name="name">Имя</string>
+    <string name="textEventBody">Body</string>
+    <string name="START_JOB">Старт job 1</string>
+
+
+    <string name="text_big">   Toast.makeText(this, "Start Time Job 3", Toast.LENGTH_SHORT).show();/n
+                Log.d ("JobScheduler start!!!"," start case 3");/n
+                Intent intent = new Intent();/n
+                intent.putExtra("text1","text1");</string>
+    <string name="item_startjob_notify">Старт нотификации</string>
+    <string name="button_base">Перейдем в базу</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="textview_count_info">Сколько раз запущено</string>
+</resources>
