@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "674433998590",
+    "firebase_url": "https://scheduleprojecr.firebaseio.com",
+    "project_id": "scheduleprojecr",
+    "storage_bucket": "scheduleprojecr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674433998590:android:4714b234979db9c5",
+        "android_client_info": {
+          "package_name": "com.example.onrename"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674433998590-9m053fdh3u6k617imfac2lb2jnn91ro3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi62Ol4F18qbCxUGxfNGrJ0tvWptqWekY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

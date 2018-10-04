@@ -98,4 +98,6 @@
     <string name="button_base">Перейдем в базу</string>
     <string name="title_activity_base">BaseActivity</string>
     <string name="textview_count_info">Сколько раз запущено</string>
+    <string name="text_descr_Shedule">Далее попробую добавить объект в базу</string>
+    <string name="add">add</string>
 </resources>
